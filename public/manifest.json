@@ -1,0 +1,16 @@
+{
+  "name": "Cryptofinder",
+  "short_name": "Cryptofinder",
+  "theme_color": "#333230",
+  "background_color": "#333230",
+  "display": "standalone",
+  "orientation": "portrait",
+  "start_url": ".",
+  "icons": [
+    {
+      "src": "icon-app-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
